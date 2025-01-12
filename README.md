@@ -84,7 +84,6 @@ This tool is for educational purposes only. Please ensure you have permission to
 
 ## 📧 Contact
 
-[@thehellmaker](https://twitter.com/thehellmaker)
-Email: [thehellmaker@gmail.com](mailto:thehellmaker@gmail.com)
-
-Project Link: [https://github.com/thehellmaker/resume-scraper](https://github.com/thehellmaker/resume-scraper)
+- X: [@thehellmaker](https://x.com/thehellmaker)
+- Email: [thehellmaker@gmail.com](mailto:thehellmaker@gmail.com)
+- Project Link: [https://github.com/thehellmaker/resume-scraper](https://github.com/thehellmaker/resume-scraper)
